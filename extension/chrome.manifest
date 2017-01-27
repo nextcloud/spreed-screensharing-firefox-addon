@@ -1,0 +1,5 @@
+# Only certain instructions are supported in bootstrapped extensions
+# See https://developer.mozilla.org/en/docs/Chrome_Registration#Instructions_supported_in_bootstrapped_add_ons
+
+# https://developer.mozilla.org/en/docs/Chrome_Registration#content-instruction
+content nextcloud-screensharing chrome/
