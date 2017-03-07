@@ -4,7 +4,7 @@
 	<Description about="urn:mozilla:install-manifest">
 		<!-- https://developer.mozilla.org/en-US/Add-ons/Install_Manifests -->
 		<em:id>spreed-screensharing@nextcloud.com</em:id>
-		<em:version>0.0.1</em:version>
+		<em:version>1.0.0</em:version>
 		<em:type>2</em:type>
 		<em:bootstrap>true</em:bootstrap>
 
@@ -17,8 +17,8 @@
 			</Description>
 		</em:targetApplication>
 
-		<em:name>Nextcloud Screensharing</em:name>
-		<em:description>Screensharing utility for the Nextcloud Spreed app.</em:description>
+		<em:name>Screensharing for Nextcloud Video calls app</em:name>
+		<em:description>Screensharing utility for the Nextcloud Video calls app.</em:description>
 		<em:creator>Nextcloud</em:creator>
 		<em:developer>Joachim Bauch</em:developer>
 		<em:homepageURL>https://nextcloud.com</em:homepageURL>

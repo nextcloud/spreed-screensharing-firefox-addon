@@ -1,4 +1,4 @@
-# Firefox addon to support screensharing in the Nextcloud Spreed app
+# Firefox addon to support screensharing in the Nextcloud [Video calls](https://github.com/nextcloud/spreed) app
 
 ## Installation
 

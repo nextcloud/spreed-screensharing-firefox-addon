@@ -2,7 +2,7 @@ SRC := ./extension
 DIST := ./dist
 ZIP := $(shell which zip)
 
-PACKAGE_NAME := nextcloud-spreed-screensharing
+PACKAGE_NAME := nextcloud-video-calls-screensharing
 PACKAGE_VERSION := $(shell  echo `sed -rn -e 's/<em:version>(.*)<\/em:version>/\1/p' $(SRC)/install.rdf` | sed -rn -e 's/^ *//p')
 
 build:
